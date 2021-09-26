@@ -136,7 +136,7 @@ function pinkBalloon() {
 }
 
 
-// Creating  arrows for bow
+// Crear flechas para el arco
  function createArrow() {
   var arrow= createSprite(100, 100, 60, 10);
   arrow.addImage(arrowImage);
